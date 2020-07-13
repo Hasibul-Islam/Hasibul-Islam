@@ -15,6 +15,6 @@
 
 ## Goal: To establish myself in the ocean of new technologies where I can work with anyone, anything. 
 
-**About Me:**<p> I'm Md. Hasibul Islam, completed graduation from IUBAT(International Univerity of Business Agriculture and Technology), Dhaka, Bangladesh. I am currently trying to establish myself as a <p>Data Scientist</p>. I have worked with <b>Python</b> for couple of years. Tried django for sometime. Now I have totally moved to the Data Science field. Trying to learn the new methods of 21st century's technologies. Currently I'm open to work. </p>
+**About Me:**<p> I'm Md. Hasibul Islam, completed graduation from IUBAT(International Univerity of Business Agriculture and Technology), Dhaka, Bangladesh. I am currently trying to establish myself as a <b>Data Scientist</b>. I have worked with <b>Python</b> for couple of years. Tried django for sometime. Now I have totally moved to the Data Science field. Trying to learn the new methods of 21st century's technologies. Currently I'm open to work. </p>
 
 
