@@ -1,8 +1,8 @@
 ### Hi there 👋
 📫 How to reach me:
 
-Name: Md. Hasibul Islam
-Email: polok.hasibul@gmail.com
+<ul>Name: Md. Hasibul Islam</ul>
+  <u>Email: polok.hasibul@gmail.com</ul>
 LinkedIn: https://www.linkedin.com/in/polokn
 Stack: https://stackoverflow.com/users/9581626/hasibul-islam-polok
 Codeforces: https://codeforces.com/profile/PolokN
