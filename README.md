@@ -3,7 +3,6 @@
 📫 How to reach me:
 
 <ul><b>Email:</b> polok.hasibul@gmail.com</ul>
-<ul><b>Github: <button>Hasibul Islam</button></ul>
 <ul><b>LinkedIn:</b> https://www.linkedin.com/in/polokn</ul>
 <ul><b>Stack:</b> https://stackoverflow.com/users/9581626/hasibul-islam-polok</ul>
 <ul><b>Codeforces:</b> https://codeforces.com/profile/PolokN</ul>
