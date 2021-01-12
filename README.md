@@ -18,9 +18,11 @@
 
 **About Me:**<p> I'm Md. Hasibul Islam, completed graduation from IUBAT(International Univerity of Business Agriculture and Technology), Dhaka, Bangladesh. I am currently trying to establish myself as a <b>Data Scientist</b>. I have worked with <b>Python</b> for couple of years. Tried django for sometime. Now I have totally moved to the Data Science field. Trying to learn the new methods of 21st century's technologies. Currently I'm open to work. </p>
 
-<h1><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasibul-Islam&show_icons=true" alt="Md. Hasibul Islam" /> </h1>
+<div>
+  <h1><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasibul-Islam&show_icons=true" alt="Md. Hasibul Islam" /> </h1>
 
 <h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Islam&layout=compact&theme=radical" alt="Hasibul-Islam"/>
 <h1>
+</div>
 
