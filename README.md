@@ -20,3 +20,7 @@
 
 <h1><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasibul-Islam&show_icons=true" alt="Md. Hasibul Islam" /> </h1>
 
+<h1>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Islam&layout=compact&theme=radical" alt="Hasibul-Islam"/>
+<h1>
+
