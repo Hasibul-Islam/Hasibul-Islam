@@ -10,7 +10,7 @@
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://polok-hasibul.medium.com/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/mdhasibulislam)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hasibul-Islam" alt="Hasibul Islam" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Hasibul-Islam" alt="Hasibul Islam" />
 
 <ul><b>Email:</b> polok.hasibul@gmail.com</ul>
 <ul><b>LinkedIn:</b> https://www.linkedin.com/in/polokn</ul>
