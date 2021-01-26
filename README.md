@@ -3,6 +3,15 @@
 
 📫 How to reach me:
 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:polok.hasibul@gmail.com?subject=From%20GitHub&cc=polok.hasibul@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/polokn/)
+
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://polok-hasibul.medium.com/)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/mdhasibulislam)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hasibul-Islam" alt="Hasibul Islam" /> </p>
+
 <ul><b>Email:</b> polok.hasibul@gmail.com</ul>
 <ul><b>LinkedIn:</b> https://www.linkedin.com/in/polokn</ul>
 <ul><b>Stack:</b> https://stackoverflow.com/users/9581626/hasibul-islam-polok</ul>
